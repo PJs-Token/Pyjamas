@@ -1,5 +1,9 @@
 # Distribution of $PJs
 
+LP Creation
+
+ - https://explorer.ergoplatform.com/transactions/fa86f69077bdd5811ba2d2737885e21c6edbb2d48595e64a6c6069387f6dc5e4
+
 Finalized Distribution List
 
  - https://github.com/PJs-Token/Pyjamas/blob/main/PJs-Distribution/PJs-QualificationList.xlsx
